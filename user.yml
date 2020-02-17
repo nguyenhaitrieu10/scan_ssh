@@ -1,0 +1,5 @@
+user: "haitrieu.nguyen"
+tunnel: ""
+key_path: "~/.ssh/id_rsa"
+port: "22"
+command: "echo"
